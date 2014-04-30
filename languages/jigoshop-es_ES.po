@@ -1,0 +1,57 @@
+# @ jigoshop coupon products
+msgid ""
+msgstr ""
+"Estado del pedido: <mark>%s</mark>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carlos Sanz <carlos.sanz@gmail.com>\n"
+"Language-Team: Carlos Sanz <carlos.sanz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /jigoshop-banesto-gateway.php
+msgid "<div class=\"jigoshop_message\">Thanks, payment was successfully.</div><br>"
+msgstr "<div class=\"jigoshop_message\">Gracias, el pago se ha realizado correctamente.</div><br>"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "<div class=\"jigoshop_error\">Sorry, the payment has been denied by the entity.</div><br>"
+msgstr "<div class=\"jigoshop_error\">Lo sentimos, el pago ha sido denegado por la entidad.</div><br>"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Banesto TPV payment completed"
+msgstr "Pago completado a traves del TPV de Banesto"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Banesto TPV denied the payment."
+msgstr "El TPV de Banesto ha denegado el pago."
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Enable testmode"
+msgstr "Activar modo test"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Commerce Name"
+msgstr "Nombre Comercio"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Message OK"
+msgstr "Mensaje OK"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Message KO"
+msgstr "Mensaje KO"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Cancel order &amp; restore cart"
+msgstr "Cancelar pedido y restablecer carrito"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Pay via Banesto"
+msgstr "Pago via Banesto"
+
+#: /jigoshop-banesto-gateway.class.php
+msgid "Thank you for your order, please click the button below to pay with Banesto."
+msgstr "Gracias por realizar tu pedido, por favor aprieta el botón a continuación para efectuar el pago con tarjeta vía Banesto."
+
